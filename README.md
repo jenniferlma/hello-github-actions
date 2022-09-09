@@ -225,7 +225,7 @@ Your new action will run any time a new commit is created or pushed to the remot
 -->
 
 <details id=X>
-<summary><h2>Finish</h2></summary>
+<summary><h2>Finish 🏁</h2></summary>
 
 _Congratulations friend, you've completed this course!_
 
